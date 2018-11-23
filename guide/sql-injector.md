@@ -32,7 +32,7 @@ public interface ISqlInjector {
 }
 ```
 
-- 实现接口抽象类 `AbstractSqlInjector`
+- 实现接口抽象类 `AbstractSqlInjector` 
 ```java
 public abstract class AbstractSqlInjector implements ISqlInjector {
 
